@@ -13,5 +13,4 @@ logging.basicConfig(
     level = logging.INFO
 )
 
-# Add this line 👇
 logger = logging.getLogger(__name__)

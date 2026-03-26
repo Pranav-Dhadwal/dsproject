@@ -2,6 +2,7 @@ numpy
 pandas
 scikit-learn
 mysql-connector-python
+sqlalchemy
 python-dotenv
 matplotlib
 seaborn
