@@ -7,6 +7,7 @@ def get_requirements(file_path:str)->List[str]:
     """
     function to get the required files
     """
+    requirements = []
     with open(file_path) as file:
         requirements = file.readlines()
         requirements = [req.replace("\n","") for req in requirements]
