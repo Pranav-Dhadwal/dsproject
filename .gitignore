@@ -7,6 +7,7 @@ __pycache__/
 .env
 
 # dataset
+data/*.png
 data/raw/*.csv
 data/processed/*.csv
 
