@@ -6,6 +6,10 @@ __pycache__/
 # env
 .env
 
+# dataset
+data/raw/*.csv
+data/processed/*.csv
+
 # C extensions
 *.so
 
