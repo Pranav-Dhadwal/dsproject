@@ -1,4 +1,8 @@
 numpy
 pandas
-# calls setup automatically
-# -e .
+scikit-learn
+mysql-connector-python
+python-dotenv
+matplotlib
+seaborn
+-e .

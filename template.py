@@ -4,9 +4,11 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="mlproject"
+project_name="dsproject"
 
 list_of_files=[
+    "data/raw/.gitkeep",
+    "data/processed/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestion.py",
